@@ -1,1 +1,5 @@
-# This is an example to show the use of git on Ubuntu
+#!/usr/bin/python3.8
+
+def main(msg):
+    print(msg)
+main("Hello People")
