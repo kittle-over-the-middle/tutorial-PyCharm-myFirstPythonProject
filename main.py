@@ -2,5 +2,6 @@
 
 def main(msg):
     #Adding a different comment
+    #JUST A FKN PRINT PROGRAM
     print(msg)
 main("Hello People")
